@@ -17,4 +17,8 @@ The Iris dataset includes the following columns:
 - **PetalLengthCm**: The length of the petal in centimeters.
 - **PetalWidthCm**: The width of the petal in centimeters.
 - **Species**: The species of the iris flower (Iris-setosa, Iris-versicolor, or Iris-virginica).
+confusion_matrix
+
+- ![iris](https://github.com/user-attachments/assets/3afa9860-1fa9-4cfc-9aba-cbc964a16831)
+
 
